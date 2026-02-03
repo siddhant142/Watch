@@ -1,6 +1,6 @@
 # Mechanical Watch – System Design Study
 
-![Watch system sketches and CAD](<img width="248" height="379" alt="image" src="https://github.com/user-attachments/assets/8b5ca3c7-e77f-469c-88be-86e39e8537d2" />
+![Watch system sketches and CAD](<img width="248" height="379" alt="image" src="https://github.com/user-attachments/assets/4f47a2d4-ab9e-4a7f-a1ad-5d4c7ac9a930" />
 )
 
 ## Description
