@@ -1,6 +1,6 @@
 # Mechanical Watch – System Design Study
 
-![Watch system sketches and CAD](images/watch_sketch_1.png)
+![Watch system sketches and CAD](images/watch_sketch.png)
 
 ## Description
 A mechanical system design project focused on understanding energy transmission,
