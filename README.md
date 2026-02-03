@@ -1,5 +1,8 @@
 # Mechanical Watch – System Design Study
 
+![Watch system sketches and CAD](<img width="248" height="379" alt="image" src="https://github.com/user-attachments/assets/8b5ca3c7-e77f-469c-88be-86e39e8537d2" />
+)
+
 ## Description
 A mechanical system design project focused on understanding energy transmission,
 gear ratios, tolerances, and constraint-driven decision making through the design
